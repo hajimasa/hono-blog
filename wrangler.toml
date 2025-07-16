@@ -3,8 +3,8 @@ main = "src/index.ts"
 compatibility_date = "2023-12-01"
 
 [vars]
-MICROCMS_SERVICE_DOMAIN = "hajimemath"
-MICROCMS_API_KEY = "w2wMm7vT7OGpRJR7VPm1Lw0SMljBkumVHc4b"
+MICROCMS_SERVICE_DOMAIN = "demo"
+MICROCMS_API_KEY = "demo-key"
 
 [env.production.vars]
 MICROCMS_SERVICE_DOMAIN = ""
